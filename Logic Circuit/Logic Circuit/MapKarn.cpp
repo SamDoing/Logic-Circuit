@@ -431,7 +431,7 @@ size_t MapKarn::GetTextFromExpCalc(const std::vector<int>& expression,
 }
 
 
-///Man this shit is crazy again1 :[] i did it just need to say that again1. Good lucky
+///Man this sh** is crazy again1 :[] i did it just need to say that again1. Good lucky
 //FU** i did it again1
 void MapKarn::GetExpressionFromText(wchar_t text[], std::vector<int>& intVars)
 {
