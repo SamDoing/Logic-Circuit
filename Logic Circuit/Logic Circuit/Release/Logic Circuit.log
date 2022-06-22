@@ -1,0 +1,11 @@
+﻿  Circuit.cpp
+  Classes.cpp
+  Draw.cpp
+C:\Dev\Visual Studio\C++\Logic Circuit\Logic Circuit\Draw.cpp(29,45): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Dev\Visual Studio\C++\Logic Circuit\Logic Circuit\Draw.cpp(29,20): warning C4244: 'inicializando': conversão de 'float' para 'const int', possível perda de dados
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+C:\Dev\Visual Studio\C++\Logic Circuit\Logic Circuit\Circuit.cpp(214): warning C4715: 'WndProc': nem todos os caminhos de controle retornam um valor
+  All 238 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  Logic Circuit.vcxproj -> C:\Dev\Visual Studio\C++\Logic Circuit\Release\Logic Circuit.exe

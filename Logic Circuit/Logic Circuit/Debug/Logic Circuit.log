@@ -1,0 +1,4 @@
+﻿  Draw.cpp
+C:\Users\Sam\Desktop\New folder\To back\To back\Dev\Visual Studio\C++\Logic Circuit\Logic Circuit\Draw.cpp(30,45): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sam\Desktop\New folder\To back\To back\Dev\Visual Studio\C++\Logic Circuit\Logic Circuit\Draw.cpp(30,20): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  Logic Circuit.vcxproj -> C:\Users\Sam\Desktop\New folder\To back\To back\Dev\Visual Studio\C++\Logic Circuit\Debug\Logic Circuit.exe
