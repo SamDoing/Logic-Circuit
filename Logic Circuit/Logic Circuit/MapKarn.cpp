@@ -368,8 +368,7 @@ void MapKarn::ResolveExpression(wchar_t expResolve[],
 }
 
 
-///Is very crazy I don't know which one is more crazy(Edit1 I know that's for sure) :/ Good lucky again2
-//FU** i did it again2 
+///It is very crazy I don't know which one is more crazy(Edit1 I know that's for sure) :/ Good lucky again2
 void MapKarn::GetTextFromExpression(const std::vector<int>& expression, wchar_t expText[],
 	const size_t& szExpVar, const bool& wOperator)
 {
@@ -431,8 +430,7 @@ size_t MapKarn::GetTextFromExpCalc(const std::vector<int>& expression,
 }
 
 
-///Man this sh** is crazy again1 :[] i did it just need to say that again1. Good lucky
-//FU** i did it again1
+///Man this is crazy again1 :[] i did it just need to say that again1. Good lucky
 void MapKarn::GetExpressionFromText(wchar_t text[], std::vector<int>& intVars)
 {
 	size_t varSz = 0, overcounter = 0, edSz;
@@ -478,8 +476,7 @@ void MapKarn::GetExpressionFromText(wchar_t text[], std::vector<int>& intVars)
 
 
 
-///Man this sh** is crazy :3 i did it just need say that. Good lucky
-//FU** i did it
+///Man this is crazy :3 i did it just need say that. Good lucky
 void MapKarn::GetText(wchar_t textVars1[], wchar_t textVars2[])
 {
 	auto func = [](wchar_t text[], const wchar_t& label, const bool& overline, size_t& i) {
